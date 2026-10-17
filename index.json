@@ -1,0 +1,11 @@
+{
+  "org": "OpenBMB",
+  "repo": "ChatDev",
+  "versions": [
+    {
+      "commit": "a2ea4a263cebe9a7abd01ee3b5b0bf95698ed328",
+      "tag": "",
+      "parsed_at": "2026-10-17T19:38:23.626936+00:00"
+    }
+  ]
+}
