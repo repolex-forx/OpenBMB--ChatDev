@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/OpenBMB/ChatDev/commit/a2ea4a263cebe9a7abd01ee3b5b0bf95698ed328",
       "git:hexsha": "a2ea4a263cebe9a7abd01ee3b5b0bf95698ed328",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T19:38:23.626373+00:00"
     },
     {
       "@id": "https://repolex.ai/r/OpenBMB/ChatDev/commit/acb93cf3d15cec5b9ee6eec0850ddd3932164329",
